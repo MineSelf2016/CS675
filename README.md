@@ -5,6 +5,8 @@ Machine learning is a practice-driven course, here try to note down the assignme
 I will update the homework before or after the submission deadline.
 
 
+Useful material: <a href="https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf">Matrix cookbook</a>
+
 ### Homework 1
 
 For part 2, explore dataset, please install the scikit-learn package before version 1.2, by using the command
@@ -17,7 +19,7 @@ or
 
 ```bash
 conda install scikit_learn<1.2
-```
+````
 
 you can explore the whole support version at https://scikit-learn.org/dev/versions.html
 
