@@ -20,3 +20,5 @@ conda install scikit_learn<1.2
 ```
 
 you can explore the whole support version at https://scikit-learn.org/dev/versions.html
+
+Then, make sure to select the correct python interpreter not matter in Colab or in local environment.
